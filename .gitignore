@@ -1,0 +1,108 @@
+/1 output accuracy.png
+/1 output prrecision.png
+/bdetect
+/best_model.h5
+/best_model1.h5
+/BuilD Classification (label, aug, VGG16) ROBO pt 1.ipynb
+/BuilD Classification (label, aug, VGG16) ROBO segmentation.ipynb
+/BuilD Classification (label, VGG16) tes 2 pt 1.ipynb
+/BuilD Classification (label, VGG16, aug) pt 1.ipynb
+/BuilD Classification (no labelling, VGG16) pt 1 - Copy (2).ipynb
+/BuilD Classification (no labelling, VGG16) pt 1 - Copy (3).ipynb
+/BuilD Classification (no labelling, VGG16) pt 1 - Copy (4).ipynb
+/BuilD Classification (no labelling, VGG16) pt 1 - Copy.ipynb
+/BuilD Classification (no labelling, VGG16) pt 1.ipynb
+/BuilD Classification (no labelling, VGG16) pt 2 - Copy (2).ipynb
+/BuilD Classification (no labelling, VGG16) pt 2 - Copy.ipynb
+/BuilD Classification (no labelling, VGG16) pt 2.ipynb
+/BuilD Classification (nolabel, aug, VGG16) ROBO classes.ipynb
+/BuilD Classification - Copy.ipynb
+/BuilD Classification.ipynb
+/building_damage_detection_model.h5
+/damageclassifier_versi10_ROBOLABELLING_VGG16.h5
+/damageclassifier_versi11_ROBOLABELLINGsgmnt_VGG16.h5
+/damageclassifier_versi12_ROBOnoLABELLING_VGG16.h5
+/damageclassifier_versi13_ROBOLABELLING_VGG16.h5
+/damageclassifier_versi14_ROBOLABELLINGsgmnt_VGG16.h5
+/damageclassifier_versi15_ROBOnoLABELLING_VGG16.h5
+/damageclassifier_versi1_LABELLING_VGG16.h5
+/damageclassifier_versi2_ROBOnoLABELLING_VGG16.h5
+/damageclassifier_versi3.1.1_noLABELLING_VGG16.h5
+/damageclassifier_versi3.1_noLABELLING_VGG16.h5
+/damageclassifier_versi3.2_noLABELLING_VGG16.h5
+/damageclassifier_versi3_noLABELLING_VGG16.h5
+/damageclassifier_versi4.1.1_noLABELLING_VGG16.h5
+/damageclassifier_versi4.1_noLABELLING_VGG16.h5
+/damageclassifier_versi4.2.1_noLABELLING_VGG16.h5
+/damageclassifier_versi4.2_noLABELLING_VGG16.h5
+/damageclassifier_versi4_noLABELLING_VGG16.h5
+/damageclassifier_versi5.1.1_noLABELLING_VGG16.h5
+/damageclassifier_versi5.1_noLABELLING_VGG16.h5
+/damageclassifier_versi5_noLABELLING_VGG16.h5
+/damageclassifier_versi7_ROBOLABELLING_VGG16.h5
+/damageclassifier_versi8_ROBOnoLABELLING_VGG16.h5
+/damageclassifier_versi9_ROBOLABELLINGsgmnt_VGG16.h5
+/DATA
+/last_image_index.txt
+/logs (VGG16, nolabel)
+/logs10 (VGG16, label)
+/logs11 (VGG16, label)
+/logs11 (VGG16, segmentation)
+/logs12 (VGG16, nolabel)
+/logs13 (VGG16, label)
+/logs14 (VGG16, label)
+/logs15 (VGG16, nolabel)
+/logs2 (VGG16, no labelling)
+/logs2 (VGG16, nolabel)
+/logs2.1 (VGG16, nolabel)
+/logs2.1.1 (VGG16, nolabel)
+/logs3 (VGG16, label)
+/logs3 (VGG16, nolabel)
+/logs3.1 (VGG16, nolabel)
+/logs3.1.1 (VGG16, nolabel)
+/logs4 (VGG16, label
+/logs4 (VGG16, label)
+/logs4 (VGG16, nolabel)
+/logs4.1 (VGG16, nolabel)
+/logs4.2 (VGG16, nolabel)
+/logs5 (VGG16, label)
+/logs5 (VGG16, nolabel)
+/logs5.1 (VGG16, nolabel)
+/logs5.1.1 (VGG16, nolabel)
+/logs7 (VGG16, label)
+/logs8 (VGG16, nolabel)
+/logs9 (VGG16, segmentation)
+/metrics classes exp1.csv
+/metrics classes exp2.csv
+/metrics classes model 1.csv
+/metrics classes model 2.csv
+/metrics classes model 3.csv
+/metrics classes model 4.csv
+/metrics classes model 5.csv
+/metrics classes.csv
+/metrics.csv
+/MODEL 5.zip
+/models
+/NEW DATA (PALU 2018)
+/NEW DATA (PIJAY 2016)
+/output 1 with early stopping.png
+/Sekolah
+/training_checkpoints
+/TS20-MAHARANI
+/v1 metrics bbox.csv
+/v1 metrics classes.csv
+/v2 BuilD Classification (label, aug, VGG16) ROBO coco bbox.ipynb
+/v2 BuilD Classification (label, aug, VGG16) ROBO segmentation.ipynb
+/v2 BuilD Classification (nolabel, aug, VGG16) ROBO classes.ipynb
+/v2 metrics bbox.csv
+/v2 metrics bbox3.csv
+/v2 metrics bbox4.csv
+/v2 metrics classes.csv
+/v2 metrics segmentation.csv
+/v4 BuilD Classification (label, aug, VGG16) ROBO coco bbox.ipynb
+/v4 BuilD Classification (label, aug, VGG16) ROBO segmentation.ipynb
+/v4 BuilD Classification (nolabel, aug, VGG16) ROBO classes.ipynb
+/v4 metrics bbox.csv
+/v4 metrics classes.csv
+/v4 metrics segmentation.csv
+/VERIFIKASI
